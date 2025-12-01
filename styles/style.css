@@ -6,7 +6,8 @@ body {
 }
 
 .header,
-.section-1 {
+.section-1,
+.footer {
   background-color: #1F2937;
 }
 
@@ -180,4 +181,10 @@ a {
   font-size: 18px;
 }
 
-
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 32px 64px;
+  color: #E5E7EB;
+}
