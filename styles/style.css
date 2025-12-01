@@ -69,6 +69,7 @@ a {
   color: #F9FAF8;
   font-weight: 900;
   padding: 8px 24px;
+  font-size: 18px;
 }
 
 .hero-image {
@@ -141,4 +142,42 @@ a {
   text-align: right;
   padding: 0px 16px;
 }
+
+.section-4 {
+  margin: 64px 64px;
+  padding: 32px 64px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #3882F6;
+  border: none;
+  border-radius: 8px;
+}
+
+.call-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.call-text {
+  color: #F9FAF8;
+  font-size: 24px;
+  font-weight: 900;
+}
+
+.call-subtext {
+  color: #E5E7EB;
+  font-size: 18px;
+}
+
+.call-button {
+  background-color: #3882F6;
+  border: 2px solid #F9FAF8;
+  border-radius: 8px;
+  color: #F9FAF8;
+  font-weight: 900;
+  padding: 8px 24px;
+  font-size: 18px;
+}
+
 
