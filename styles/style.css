@@ -119,3 +119,26 @@ a {
   color: #1F2937;
   text-align: center;
 }
+
+.section-3 {
+  padding: 64px 128px;
+  display: flex;
+  flex-direction: column;
+  background-color: #E5E7EB;
+}
+
+.quote-text {
+  color: #1F2937;
+  font-size: 36px;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.quote-name {
+  color: #1F2937;
+  font-size: 24px;
+  font-weight: 900;
+  text-align: right;
+  padding: 0px 16px;
+}
+
